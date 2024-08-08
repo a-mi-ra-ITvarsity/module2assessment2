@@ -1,0 +1,338 @@
+/******************* MENU BAR *******************/
+
+#menu{
+    width: 100%;
+    height: 50px;
+    background-color: bisque;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+#menu a{
+    color: saddlebrown;
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: 100;
+    text-decoration: none;
+    height: 40px;
+    
+    padding-left: 90px;
+}
+
+/******************* HOME *******************/
+
+#home h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: fantasy;
+    font-weight: 200;
+    color: saddlebrown;
+    text-decoration: underline;
+}
+
+#home h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 100;
+    color: saddlebrown;
+    text-decoration: underline;
+}
+
+#home p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    color: saddlebrown;
+}
+
+#home img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+
+/******************* HEADINGS *******************/
+
+h1{
+    text-align: center;
+    font-family: fantasy;
+    text-decoration: underline;
+    font-size: 60px;
+    font-weight: 200;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 200;
+}
+
+
+/******************* LIST *******************/
+
+#list img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+    color: saddlebrown;
+}
+
+h1{
+    color: saddlebrown;
+}
+
+h2{
+    color: saddlebrown;
+}
+
+/******************* BARTGIN BOOKS *******************/
+
+#barginbooks img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bb-images img{
+    margin: 30px;
+}
+
+/******************* CHECKERS *******************/
+
+#checkers img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#checkers-images img{
+    margin: 45px;
+}
+
+/******************* ISTORE *******************/
+
+#istore img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#istore-images img{
+    margin: 35px;
+}
+
+/******************* KFC *******************/
+
+#kfc img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kfc-images img{
+    margin: 60px;
+}
+
+/******************* KRISPYKREME *******************/
+
+#krispykreme img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#kk-images img{
+    margin: 55px;
+}
+
+/******************* MILKYLANE *******************/
+
+#milkylane img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#ml-images img{
+    margin: 45px;
+}
+
+/******************* MRPRICE *******************/
+
+#mrprice img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mrp-images img{
+    margin: 15px;
+}
+
+/******************* SWAROVSKIE *******************/
+
+#swarovski img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#s-images img{
+    margin: 25px;
+}
+
+/******************* THE FIX *******************/
+
+#thefix img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fix-images img{
+    margin: 20px;
+}
+
+/******************* TOY KINGDOM *******************/
+
+#toykingdom img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#tk-images img{
+    margin: 25px;
+}
+
+/******************* MOVIES *******************/
+
+#movies img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#movies h4{
+    text-align: center;
+    color: saddlebrown;
+}
+
+#movies h3{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    color: saddlebrown;
+}
+
+#movies p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
+    color: saddlebrown;
+}
+
+/******************* CRUELLA *******************/
+
+#cruella img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cruella p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none; 
+}
+
+/******************* GK *******************/
+
+#gk img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gk p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none; 
+}
+
+/******************* SPIDERMAN *******************/
+
+#spiderman img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#spiderman p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none; 
+}
+
+/******************* SUICIDE SQUAD *******************/
+
+#suicidesquad img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#suicidesquad p{
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none; 
+}
+
+/******************* ABOUT *******************/
+
+#about img{
+    margin: 45px;
+}
+
+#about h2{
+    text-align: center;
+    text-decoration: underline;
+    font-family: fantasy;
+    font-size: 40px;
+    font-weight: 200;
+    color: saddlebrown;
+}
+
+#about h4{
+    text-align: center;
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 25px;
+    font-weight: 100;
+    color: saddlebrown;
+}
+
+/******************* CONTACT *******************/
+
+#contact p{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+/******************* BODY *******************/
+
+body{
+    background-image: url(images.html/wallpaper-pastel-blur.jpg);
+    background-size: cover;
+}
+
